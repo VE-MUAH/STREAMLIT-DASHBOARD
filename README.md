@@ -1,2 +1,2 @@
-# STREAMLIT-DASHBOARD
-dashboard showing geographical information and visualisation
+# MY_STREAMLIT_APP
+ OFFICIAL _REPOSITORY _FOR _MY _STREMLIT _APP
